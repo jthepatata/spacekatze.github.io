@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: Catbook
-  pic: /assets/img/space-cat-me.jpg
+  pic: /assets/img/space-cat-me.png
   picAlt: "Space Katze"
   job: My exploratory playground
   aboutme: true # comment this out if you don't need the 'about' page.
