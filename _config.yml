@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: Cat in space
   pic: /assets/img/space-cat-me.png
   picAlt: "Space Katze"
   job: My exploratory playground
